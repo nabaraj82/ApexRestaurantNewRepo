@@ -1,0 +1,12 @@
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\bin\Debug\netcoreapp3.1\ApexRestaurant.Services.deps.json
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\bin\Debug\netcoreapp3.1\ApexRestaurant.Services.dll
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\bin\Debug\netcoreapp3.1\ApexRestaurant.Services.pdb
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\bin\Debug\netcoreapp3.1\ApexRestaurant.Repository.dll
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\bin\Debug\netcoreapp3.1\ApexRestaurant.Repository.pdb
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.csprojAssemblyReference.cache
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.AssemblyInfoInputs.cache
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.AssemblyInfo.cs
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.csproj.CopyComplete
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.dll
+D:\DotNet\ApexRestaurent\ApexRestaurant.Services\obj\Debug\netcoreapp3.1\ApexRestaurant.Services.pdb

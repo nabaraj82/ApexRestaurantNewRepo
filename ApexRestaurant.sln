@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Repository", "ApexRestaurant.Repository\ApexRestaurant.Repository.csproj", "{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Services", "ApexRestaurant.Services\ApexRestaurant.Services.csproj", "{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexRestaurant.Api", "ApexRestaurant.Api\ApexRestaurant.Api.csproj", "{5226D72F-9FA7-49C6-9C36-2EB1231A4592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|x64.Build.0 = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Debug|x86.Build.0 = Debug|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|x64.Build.0 = Release|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|x86.ActiveCfg = Release|Any CPU
+		{AFAFDBC9-DCF4-4877-9379-0335A64AC7ED}.Release|x86.Build.0 = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|x64.Build.0 = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|x64.ActiveCfg = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|x64.Build.0 = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{0DB453C7-CAD1-4AAD-8EA9-E04E450354F6}.Release|x86.Build.0 = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|x64.Build.0 = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Debug|x86.Build.0 = Debug|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|x64.ActiveCfg = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|x64.Build.0 = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|x86.ActiveCfg = Release|Any CPU
+		{5226D72F-9FA7-49C6-9C36-2EB1231A4592}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
